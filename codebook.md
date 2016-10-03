@@ -1,10 +1,14 @@
 # All the attributes have been averaged over Activity_Name and Subject 		
  
- VARIABLE		                      DESCRIPTION
+# VARIABLE		                      DESCRIPTION
 Activity_Name	:	Description of the activity done by the subject
+
 Subject	:	ID of the person participating in the experiment
+
 tBodyAcc-mean()-X	:	Mean over X axis normalised to have values between [-1,1]
+
 tBodyAcc-mean()-Y	:	Mean over Y axis normalised to have values between [-1,1]
+
 tBodyAcc-mean()-Z	:	Mean over Z axis normalised to have values between [-1,1]
 tGravityAcc-mean()-X	:	Mean over X axis normalised to have values between [-1,1]
 tGravityAcc-mean()-Y	:	Mean over Y axis normalised to have values between [-1,1]
